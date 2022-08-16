@@ -1,0 +1,34 @@
+body {
+	padding: 40px;
+	background: whitesmoke;
+	text-align: center;
+	font-weight: bold;
+}
+
+#apple-shelf {
+	background: lightcoral;
+	border-radius: 10px;
+	height: 30px;
+	margin: 10px 0;
+}
+
+#orange-shelf {
+	background: lightsalmon;
+	border-radius: 10px;
+	height: 30px;
+}
+
+button {
+	margin: 10px;
+	border-radius: 10px;
+	height: 30px;
+	width: 50px;
+	font-weight: bold;
+	background: lightcoral;
+}
+
+#fruit-count {
+	font-family: 'Cursed Timer ULiL', sans-serif;
+	font-weight: bold;
+	font-size: 100px;
+}
